@@ -11,7 +11,7 @@
 ### Redis 系列
 - [菜鸟教程](https://www.runoob.com/redis/redis-tutorial.html)
 
-# Git 系列
+### Git 系列
 - [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 
 ### 框架系列
